@@ -12,3 +12,7 @@ The world's smallest JavaScript calculator library (probably).
 \# *Calc*(number)
 
 > Constructs a Calc object with the current value set to `number`
+
+\# *getVal*
+
+> Returns the current value of the 'number'
