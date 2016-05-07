@@ -21,18 +21,18 @@ The world's smallest JavaScript calculator library (probably).
 
 > Returns the result of adding n to the current `number`
 
-\# *Calc.***.minus**(n)
+\# *Calc.***minus**(n)
 
 > Returns the result of subtracting n from the current `number`
 
-\# *Calc.***.times**(n)
+\# *Calc.***times**(n)
 
 > Returns the result of multiplying n with the current `number`
 
-\# *Calc.***.divide**(n)
+\# *Calc.***divide**(n)
 
 > Returns the result of dividing n from the current `number`
 
-\# *Calc.***.clear**(n)
+\# *Calc.***clear**(n)
 
 > Returns 0;
